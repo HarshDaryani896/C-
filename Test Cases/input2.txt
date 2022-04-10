@@ -1,0 +1,15 @@
+cint main()
+{ 
+    cint t;
+    cin>>t;
+    cout << t;
+    cout << "abc ;
+    cif(t>=9)
+ 
+       cint z = 7;
+    }
+    celse
+    {
+       cout << 123 ;
+    };
+}

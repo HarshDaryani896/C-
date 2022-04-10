@@ -1,0 +1,17 @@
+cint trial ( cint x )
+{
+   cstring str = "abc";
+   cint x = 5.6;
+   cint y = 7;
+   cint l = x;
+   call ( trial ( y ) ) ;
+   cif ( x > 5 )
+   {  
+       cint z = 4 ;
+   } 
+   cif x > 5)
+   {
+   };
+   cint c = y
+   cint d = 4;
+}

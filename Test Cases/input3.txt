@@ -1,0 +1,7 @@
+cint trial( cint )
+{
+   cstring str = "abc;
+   cint x = 5;
+   cint y = 1.2.2;
+   cint l = x
+};

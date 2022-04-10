@@ -1,0 +1,11 @@
+cint tf(cint x)
+{
+   cint y = x;
+   cint z = 5;
+   cbool b = true;
+   cbool c = false;
+   cif ( c == true )
+   cint t = 6.3;
+   cint a = 009;
+};
+}

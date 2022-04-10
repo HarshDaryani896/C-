@@ -1,0 +1,11 @@
+cint main()
+{ 
+    cint t;
+    cin >> t;
+    cin >> t;
+    cfor(t>=7)
+    {
+    #this is a commment
+    };
+    cint = 1..2;
+}
