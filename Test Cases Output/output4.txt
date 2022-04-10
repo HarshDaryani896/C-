@@ -1,0 +1,68 @@
+Token 0, string cint data type,  line number 1
+Token 100, string trial identifier, line number 1
+Token 23, string ( operator, line number 1
+Token 0, string cint data type,  line number 1
+Token 100, string x identifier, line number 1
+Token 24, string ) operator, line number 1
+Token 27, string { operator, line number 2
+Token 2, string cstring data type,  line number 3
+Token 100, string str identifier, line number 3
+Token 42, string = operator, line number 3
+Token 400, string "abc" string, line number 3
+Token 38, string ; operator, line number 3
+Token 0, string cint data type,  line number 4
+Token 100, string x identifier, line number 4
+Token 42, string = operator, line number 4
+Token 300, string 5.6 floating point integer, line number 4
+Token 38, string ; operator, line number 4
+Token 0, string cint data type,  line number 5
+Token 100, string y identifier, line number 5
+Token 42, string = operator, line number 5
+Token 200, string 7 integer, line number 5
+Token 38, string ; operator, line number 5
+Token 0, string cint data type,  line number 6
+Token 100, string l identifier, line number 6
+Token 42, string = operator, line number 6
+Token 100, string x identifier, line number 6
+Token 38, string ; operator, line number 6
+Token 15, string call keyword,  line number 7
+Token 23, string ( operator, line number 7
+Token 100, string trial identifier, line number 7
+Token 23, string ( operator, line number 7
+Token 100, string y identifier, line number 7
+Token 24, string ) operator, line number 7
+Token 24, string ) operator, line number 7
+Token 38, string ; operator, line number 7
+Token 7, string cif keyword,  line number 8
+Token 23, string ( operator, line number 8
+Token 100, string x identifier, line number 8
+Token 33, string > operator, line number 8
+Token 200, string 5 integer, line number 8
+Token 24, string ) operator, line number 8
+Token 27, string { operator, line number 9
+Token 0, string cint data type,  line number 10
+Token 100, string z identifier, line number 10
+Token 42, string = operator, line number 10
+Token 200, string 4 integer, line number 10
+Token 38, string ; operator, line number 10
+Token 28, string } operator, line number 11
+Token 7, string cif keyword,  line number 12
+Token 100, string x identifier, line number 12
+Token 33, string > operator, line number 12
+Token 200, string 5 integer, line number 12
+Token 24, string ) operator, line number 12
+Token 27, string { operator, line number 13
+Token 28, string } operator, line number 14
+Token 38, string ; operator, line number 14
+Token 0, string cint data type,  line number 15
+Token 100, string c identifier, line number 15
+Token 42, string = operator, line number 15
+Token 100, string y identifier, line number 15
+Token 0, string cint data type,  line number 16
+Token 100, string d identifier, line number 16
+Token 42, string = operator, line number 16
+Token 200, string 4 integer, line number 16
+Token 38, string ; operator, line number 16
+Token 28, string } operator, line number 17
+
+End of Lexer Output
